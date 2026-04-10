@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 --> 
 I'm currently working on becoming a Cloud Engineer! <br />
 I'm using LearnToCloud to teach me on how to do this. <br />
-You can reach me with the following email - Rodriguez8865@gmail.com
+You can reach me with the following email - Rodriguez8865@gmail.com <br />
+I have a TikTok account where I am restoring my 1991 FC RX-7, the handle is @fceggward
